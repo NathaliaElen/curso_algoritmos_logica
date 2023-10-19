@@ -1,2 +1,2 @@
 # curso_algoritmos_logica
-Curso completo com exerc[icios de algoritmos e l[ogica programação.
+Curso completo com exercícios de algoritmos e lógica programação.
